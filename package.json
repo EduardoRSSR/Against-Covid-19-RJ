@@ -1,23 +1,23 @@
 {
-  "name": "covid-19-rj",
+  "name": "against-covid-19-rj-master",
   "version": "1.0.0",
-  "description": "Implementing Against-Covid-19 App.",
+  "description": "Repository for implementing Against-Covid-19 app to monitor Rio de Janeiro cases..",
   "main": "main.js",
+  "dependencies": {
+    "bootstrap": "4.5.0",
+    "font-awesome": "4.7.0",
+    "jquery": "3.5.1",
+    "mapbox": "1.0.0-beta10",
+    "mapbox-gl": "1.10.1"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/EduardoRSSR/Against-Covid-19-RJ.git"
-  },
-  "keywords": [
-    "javascript",
-    "Covid-19"
-  ],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/EduardoRSSR/Against-Covid-19-RJ/issues"
-  },
-  "homepage": "https://github.com/EduardoRSSR/Against-Covid-19-RJ#readme"
-}
+  "repository": {},
+    "type": "git",
+    "url": "DUDU"
+  }
+
